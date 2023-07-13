@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #D2A1FF;
+}
+
+.container {
+    width: 100%;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.soeasy {
+    padding: 2em;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.aboutme {
+  padding: 2em;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.bigboss {
+    padding: 2em;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.name1 {
+
+}
+
+.ans {
+    text-align: center;
+    color: #311036;
+    padding: 1em 0 2em 1.2em;
+    font-size: 2em;
+    font-weight: 100;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    padding-top: 1.8em;
+}
+
+.img2 {
+   text-align: center;
+   padding-left: -0.8em;
+   padding-top: 1.2em;
+   height: 115px;
+   object-position: -1em;
+}
+
+.dd1 {
+    display: flex;
+    justify-content: center;
+}
+
+.but1 {
+    background-color: #D2A1FF;
+    padding: 1.2em 1.6em 1.2em 1.6em;
+    margin-top: 2.5em;
+    border: none;
+    font-size: 1.4em;
+    color: #311036;
+    border-radius: 3em;
+    margin-bottom: 1em;
+}
+
+.im1 {
+    text-align: center;
+}
+
+.but11 {
+    font-size: 1.4em;
+    color: #311036;
+    text-decoration: none;
+    font-weight: 60;
+}
+
+.eee1 {
+    background-color: #FFE2FC;
+}
+
+.op1 {
+    background-color:#D2A1FF;
+    padding: 1em;
+}
